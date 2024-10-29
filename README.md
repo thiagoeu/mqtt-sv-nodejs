@@ -1,7 +1,7 @@
 
 # MQTT Server
 
-Este projeto tem como objetivo a criação de um servidor MQTT para comunicação entre um dispositivos. Voltado principalmente para aplicações IoT. 
+Este projeto tem como objetivo a criação de um servidor MQTT para comunicação entre dispositivos. Voltado principalmente para aplicações IoT. 
 
 
 ## Tecnologias e Ferramentas Utilizadas:
